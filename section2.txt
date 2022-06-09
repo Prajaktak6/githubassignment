@@ -1,0 +1,14 @@
+Owner@DESKTOP-2KE550T MINGW64 /c/Users/Owner/Desktop/Assignments (master)
+$ git checkout -b css-assignments
+Switched to a new branch 'css-assignments'
+
+Owner@DESKTOP-2KE550T MINGW64 /c/Users/Owner/Desktop/Assignments (css-assignments)
+$ git add .
+
+Owner@DESKTOP-2KE550T MINGW64 /c/Users/Owner/Desktop/Assignments (css-assignments)
+$ git add .
+
+Owner@DESKTOP-2KE550T MINGW64 /c/Users/Owner/Desktop/Assignments (css-assignments)
+$ git commit -m 'css assignments'
+[css-assignments 66a0d94] css assignments
+ 1 file changed, 3 insertions(+), 1 deletion(-)
